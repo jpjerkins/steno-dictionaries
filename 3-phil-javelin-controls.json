@@ -1,0 +1,18 @@
+{
+"TK*UP":"{:add_translation}",
+"SKO*EL":"{:console}",
+"STPHA*EUBG": "{mode:set_space:-}",
+"SRO*PL": "{#AudioLowerVolume}",
+"SROPL": "{#AudioRaiseVolume}",
+"TPHO*FP": "{mode:set_space:}",
+"TAO*EULT": "{MODE:TITLE}",
+"T-LT": "{MODE:TITLE}",
+"KA*P": "{<}",
+"STPHA*EUBG": "{MODE:SNAKE}",
+"KPWA*B": "{mode:set_space:-}",
+"KA*PS": "{MODE:CAPS}",
+"K-BGS": "{MODE:CAMEL}{-|}",
+"PHR*UP": "{:console}lookup ",
+"R-FP": "{mode:reset_space}",
+"R-FT": "{MODE:RESET}"
+}

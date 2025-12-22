@@ -1,0 +1,18 @@
+{
+"#-RB": "=wt_prev_page",
+"#-GS": "=wt_next_page",
+"STPHA*EUBG": "{MODE:SNAKE}",
+"KPWA*B": "{mode:set_space:-}",
+"SRO*PL": "{#AudioLowerVolume}",
+"SROPL": "{#AudioRaiseVolume}",
+"TPHO*FP": "{mode:set_space:}",
+"TAO*EULT": "{MODE:TITLE}",
+"T-LT": "{MODE:TITLE}",
+"KA*P": "{<}",
+"KA*PS": "{MODE:CAPS}",
+"K-BGS": "{MODE:CAMEL}{-|}",
+"PHROGS": "{plover:suggestions}",
+"PHR*UP": "{plover:lookup}",
+"R-FP": "{mode:reset_space}",
+"R-FT": "{MODE:RESET}"
+}
