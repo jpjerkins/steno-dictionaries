@@ -11,7 +11,7 @@
 "STPHA*EUBG": "{MODE:SNAKE}",
 "KPWA*B": "{mode:set_space:-}",
 "KA*PS": "{MODE:CAPS}",
-"K-BGS": "{MODE:CAMEL}{-|}",
+"K-BGS": "{:set_case:title}{:set_space:}",
 "PHR*UP": "{:console}lookup ",
 "R-FP": "{mode:reset_space}",
 "R-FT": "{MODE:RESET}"
