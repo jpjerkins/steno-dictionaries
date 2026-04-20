@@ -31,5 +31,6 @@
 "SKOEPL": "{#Home}",
 "SKEPBD": "{#End}",
 "R*R": "{#Control_L(Return)}",
+"R*RB": "{#Alt_L(Return)}",
 "R-RB": "{#Shift_L(Return)}"
 }
